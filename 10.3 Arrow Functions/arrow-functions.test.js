@@ -1,4 +1,4 @@
-describe("Arrow Functions", () => {
+describe("10.3 Arrow Functions", () => {
 	it("should double all values in the array", () => {
 		const arr = [1, 2, 3, 4];
 		const doubledArr = [2, 4, 6, 8];

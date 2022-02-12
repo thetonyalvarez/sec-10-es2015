@@ -1,4 +1,4 @@
-describe("Rest and Spread", () => {
+describe("10.4 Rest and Spread", () => {
 	it("should filter out odd numbers from an array", () => {
 		expect(filterOutOdds([1, 2, 3, 4])).toEqual([2, 4]);
 	});
